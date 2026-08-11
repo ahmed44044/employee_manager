@@ -30,3 +30,6 @@ if result:
     print("Found:", result)
 else:
     print("Employee not found")
+    
+    
+print ("Company Name:", Employee.company_name)
